@@ -6,7 +6,6 @@
   />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavanyaamehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -25,7 +24,7 @@
 
 ## 🏆 Achievements
 
-- ✅ Solved **290+** DSA problems in Leetcode  
+- ✅ Solved **290+** DSA problems in LeetCode  
 - 🥇 Participated in multiple coding contests  
 - 📜 Participated in Smart India Hackathon   
 
@@ -34,13 +33,12 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://leetcode.com/medal/?showImg=0&id=4108276&isLevel=false" alt="LeetCode Medals" />
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
 </p>
-<p align="center">
-  <img src="https://leetcode.com/medal/?showImg=0&id=5509274&isLevel=false" alt="LeetCode Medals" />
-</p>
-
 
 ### 🧰 Tools & Platforms
 <p>
@@ -49,31 +47,33 @@
   <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
+### 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=lavanyamehrotra_23&theme=dark" alt="LeetCode Stats" />
+</p>
+
 ---
 
 ## 🚀 Projects
 
-- 🔹 **MovieMate**
-* Developed “Movie Mate”, a full-stack web application similar to BookMyShow, aimed at providing an intuitive platform for booking movie tickets.
-* Implemented both front-end and back-end technologies to create a seamless user experience, including features for browsing, booking, and managing movie reservations.
-* Project focused on delivering a complete, user-friendly solution, integrating responsive design, payment gateways, and real-time updates for an engaging ticket-booking experience.
+- 🔹 **MovieMate**  
+  Developed “Movie Mate”, a full-stack web application similar to BookMyShow, aimed at providing an intuitive platform for booking movie tickets.  
+  Implemented both front-end and back-end technologies to create a seamless user experience, including features for browsing, booking, and managing movie reservations.  
+  Project focused on delivering a complete, user-friendly solution, integrating responsive design, payment gateways, and real-time updates for an engaging ticket-booking experience.  
   🔗 [GitHub Repository](https://github.com/lavanyaamehrotra/Movie-Mate_1)
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lavanya-mehrotra-b989a3279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/lavanya-mehrotra-b989a3279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/https://leetcode.com/u/lavanyamehrotra_23/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/u/lavanyamehrotra_23/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://github.com/lavanyaamehrotra" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
-
----
